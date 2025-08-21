@@ -1,5 +1,7 @@
 # kaggle-BigQueryAI-AI-Architect
 
+
+proposed file structure:
 ```
 exec-insight-dashboard/
   ├── data/                # mock CSV/JSON invoices & transactions
